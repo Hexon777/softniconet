@@ -1,0 +1,20 @@
+textarea{
+    font-size: 14px;
+    font-family: Arial;
+    font-weight: normal;
+    height: 560px;
+    width: 100%;
+}
+button {
+    width: 100%;
+    border-radius: 5px;
+    background-color: rgb(0, 247, 255);
+    font-size: medium;
+}
+
+button:hover {
+    width: 100%;
+    border-radius: 5px;
+    background-color: rgb(45, 177, 182);
+    font-size: medium;
+}
